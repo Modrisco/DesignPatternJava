@@ -2,6 +2,7 @@ package principles.singleresponsibility;
 
 /**
  * @author mlx
+ * bad example
  */
 public class SingleResponsibility1 {
     public static void main(String[] args) {

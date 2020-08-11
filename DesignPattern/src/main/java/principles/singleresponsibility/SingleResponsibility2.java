@@ -1,5 +1,9 @@
 package principles.singleresponsibility;
 
+/**
+ * @author mlx
+ * implement single responsibility by breaking classes
+ */
 public class SingleResponsibility2 {
     public static void main(String[] args) {
         VehicleOnTheRoad vehicleRoad = new VehicleOnTheRoad();

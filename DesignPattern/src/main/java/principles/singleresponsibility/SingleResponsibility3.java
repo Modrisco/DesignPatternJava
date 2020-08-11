@@ -12,6 +12,7 @@ public class SingleResponsibility3 {
     }
 }
 
+// follow single responsibility principle in method level
 
 class MultiVehicle {
     public void run(String vehicle) {
