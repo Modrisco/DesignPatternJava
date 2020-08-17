@@ -1,4 +1,4 @@
-package principles.interfacesegregation;
+package principles.interfacesegregation.basic;
 
 /**
  * @author mlx
