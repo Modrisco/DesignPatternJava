@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>relationship.implementation</OriginalElement>
+  <nodes>
+    <node x="0.0" y="106.0">relationship.implementation.PersonServiceBean</node>
+    <node x="8.5" y="0.0">relationship.implementation.IPersonService</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="relationship.implementation.PersonServiceBean" target="relationship.implementation.IPersonService">
+      <point x="0.0" y="-28.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="95.5" y="57.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
