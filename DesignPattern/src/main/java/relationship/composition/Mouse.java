@@ -1,2 +1,4 @@
-package relationship.composition;public class Mouse {
+package relationship.composition;
+
+public class Mouse {
 }

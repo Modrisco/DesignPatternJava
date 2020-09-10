@@ -1,2 +1,4 @@
-package relationship.composition;public class Keyboard {
+package relationship.composition;
+
+public class Keyboard {
 }

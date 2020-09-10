@@ -1,2 +1,4 @@
-package relationship.aggregation;public class Keyboard {
+package relationship.aggregation;
+
+public class Keyboard {
 }

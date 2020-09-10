@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>relationship.aggregation</OriginalElement>
+  <nodes>
+    <node x="4.875000000000014" y="0.0">relationship.aggregation.Mouse</node>
+    <node x="115.87500000000001" y="0.0">relationship.aggregation.Keyboard</node>
+    <node x="2.0" y="280.0">relationship.aggregation.Computer</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="117.0" y="201.0" />
+  <SelectedNodes>
+    <node>relationship.aggregation.Mouse</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

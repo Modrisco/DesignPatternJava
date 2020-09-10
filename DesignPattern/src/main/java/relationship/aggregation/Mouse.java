@@ -1,2 +1,4 @@
-package relationship.aggregation;public class Mouse {
+package relationship.aggregation;
+
+public class Mouse {
 }
